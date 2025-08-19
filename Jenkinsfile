@@ -6,7 +6,7 @@ pipeline {
     DD_SITE = 'datadoghq.com'   // troque se for .eu, us3, us5, ap1
     SERVICE = 'storefront'
     ENV     = 'prod'
-    TEAM    = 'KXP'
+    
   }
 
   stages {
